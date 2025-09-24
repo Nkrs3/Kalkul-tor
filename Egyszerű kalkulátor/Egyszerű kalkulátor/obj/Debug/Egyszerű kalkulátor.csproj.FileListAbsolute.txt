@@ -1,0 +1,8 @@
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\bin\Debug\Egyszerű kalkulátor.exe.config
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\bin\Debug\Egyszerű kalkulátor.exe
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\bin\Debug\Egyszerű kalkulátor.pdb
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\obj\Debug\Egyszerű kalkulátor.csproj.AssemblyReference.cache
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\obj\Debug\Egyszerű kalkulátor.csproj.CoreCompileInputs.cache
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\obj\Debug\Egyszerű kalkulátor.exe
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\obj\Debug\Egyszerű kalkulátor.pdb
+J:\Visual Studio 11.b\Egyszerű kalkulátor\Egyszerű kalkulátor\obj\Debug\Egyszerű kalkulátor.exe.config

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Visual Studio 11.b\\Egyszer\u0171 kalkul\u00E1tor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB310D-D8D7-45CA-8323-CCD18B7598E3}|Egyszer\u0171 kalkul\u00E1tor\\Egyszer\u0171 kalkul\u00E1tor.csproj|j:\\visual studio 11.b\\egyszer\u0171 kalkul\u00E1tor\\egyszer\u0171 kalkul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABB310D-D8D7-45CA-8323-CCD18B7598E3}|Egyszer\u0171 kalkul\u00E1tor\\Egyszer\u0171 kalkul\u00E1tor.csproj|solutionrelative:egyszer\u0171 kalkul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Visual Studio 11.b\\Egyszer\u0171 kalkul\u00E1tor\\Egyszer\u0171 kalkul\u00E1tor\\Program.cs",
+              "RelativeDocumentMoniker": "Egyszer\u0171 kalkul\u00E1tor\\Program.cs",
+              "ToolTip": "J:\\Visual Studio 11.b\\Egyszer\u0171 kalkul\u00E1tor\\Egyszer\u0171 kalkul\u00E1tor\\Program.cs*",
+              "RelativeToolTip": "Egyszer\u0171 kalkul\u00E1tor\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:00:12.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
